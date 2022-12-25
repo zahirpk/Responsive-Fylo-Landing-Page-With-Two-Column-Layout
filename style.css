@@ -285,6 +285,7 @@ footer{
 ul a:hover{
     cursor: pointer;
     text-decoration: underline;
+    color: var(--Moderate-Cyan);
 }
 .bottom-nav a{
 
